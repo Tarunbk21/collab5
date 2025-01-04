@@ -1,3 +1,5 @@
 git checkout main
 git merge feature_branch
-git push origin main
+git push origin m
+
+if erro:git config credential.username <your id>
